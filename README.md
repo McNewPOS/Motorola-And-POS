@@ -75,6 +75,14 @@ By accessing or using this software, you agree **not to redistribute or share cr
 
 ---
 
+## 📬 Contact
+
+For password requests or access inquiries:  
+- **Discord DM:** *(newpos61)*  
+- **Email:** [ian.linzey@icloud.com](mailto:ian.linzey@icloud.com)
+
+---
+
 ## 🤝 A Note on Trust
 
 The hardest part of maintaining software isn’t just writing code—it’s stewardship.  
